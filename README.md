@@ -25,14 +25,6 @@
 
 Go · Python · TypeScript · C · Linux · eBPF · perf · PMU · Docker · Nginx · PyTorch
 
-## Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SiyuanSun0736/SiyuanSun0736/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SiyuanSun0736/SiyuanSun0736/output/github-contribution-grid-snake.svg" />
-  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/SiyuanSun0736/SiyuanSun0736/output/github-contribution-grid-snake.svg" />
-</picture>
-
 ## Contact
 
 - GitHub: https://github.com/SiyuanSun0736

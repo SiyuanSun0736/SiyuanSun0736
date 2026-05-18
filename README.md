@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Siyuan Sun</h1>
 
 <p align="center">
-  Compiler Optimization • Performance Analysis • Systems Engineering • ML for Low-level Signals
+  Compiler Optimization • Performance Analysis • Systems Engineering
 </p>
 
 <p align="center">
@@ -21,35 +21,6 @@
 - Reproducible experiment pipelines for systems and compiler research
 - Full-stack engineering for tools, dashboards, and deployment
 
-## Selected Projects
-
-### TraceTwin
-
-Predicts relative performance differences between binary variants from PMU and LBR time-series signals with a Siamese modeling pipeline.
-
-- Stack: Python, C, Linux perf, PyTorch
-- Repo: https://github.com/SiyuanSun0736/TraceTwin
-
-### mem-profiler
-
-An eBPF experiment platform for fine-grained memory-event collection, attribution, and methodology validation.
-
-- Stack: Python, eBPF, BCC, C
-- Repo: https://github.com/SiyuanSun0736/mem-profiler
-
-### my_blog
-
-A production-style personal blog with Go backend, React frontend, HTTPS deployment, image upload, search, and PDF export.
-
-- Stack: Go, React, Nginx, MongoDB, Redis
-- Repo: https://github.com/SiyuanSun0736/my_blog
-
-## Working On
-
-- Connecting low-level performance signals to practical ML workflows
-- Building tooling for profiling, dataset curation, and evaluation
-- Writing about engineering, systems, and performance work
-
 ## Tech
 
 Go · Python · TypeScript · C · Linux · eBPF · perf · PMU · Docker · Nginx · PyTorch
@@ -66,5 +37,3 @@ Go · Python · TypeScript · C · Linux · eBPF · perf · PMU · Docker · Ngi
 
 - GitHub: https://github.com/SiyuanSun0736
 - Blog: https://wanderlust0736.top
-
-If you work on performance analysis, compiler optimization, tracing, or systems tooling, feel free to reach out.

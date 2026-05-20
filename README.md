@@ -1,14 +1,6 @@
 <h1 align="center">Hi, I'm Siyuan Sun</h1>
 
 <p align="center">
-  👋 Compiler Optimization • Performance Analysis • Systems Engineering
-</p>
-
-<p align="center">
-  🔬 I build tools and pipelines around PMU, LBR, eBPF, tracing, and reproducible performance experiments.
-</p>
-
-<p align="center">
   <a href="https://github.com/SiyuanSun0736?tab=repositories">📚 Repositories</a>
   ·
   <a href="https://wanderlust0736.top">📝 Blog</a>
@@ -54,11 +46,6 @@
 <p>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
 </p>
-
-## 📬 Contact
-
-- 🐙 GitHub: https://github.com/SiyuanSun0736
-- 🌐 Blog: https://wanderlust0736.top
 
 ## 🔀 Recent Pull Requests
 

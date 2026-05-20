@@ -1,0 +1,38 @@
+name: Update Profile PR List
+
+"on":
+  schedule:
+    - cron: "0 2 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-pr-list:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Refresh README PR section
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_USERNAME: SiyuanSun0736
+          PR_LIST_LIMIT: 3
+        run: node .github/scripts/update-pr-list.mjs
+
+      - name: Commit README changes
+        run: |
+          if git diff --quiet README.md; then
+            echo "No README changes to commit."
+            exit 0
+          fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "chore: update PR list in README"
+          git push

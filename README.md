@@ -52,7 +52,7 @@
 Daily-updated snapshot of my latest public PR activity.
 
 <!-- PR-LIST:START -->
-- 🟡 [multikernel/kernelscript#22](https://github.com/multikernel/kernelscript/pull/22) - feat:Implement perf event groups, scaled reads, and group snapshots (Open, updated 2026-05-23)
+- ✅ [multikernel/kernelscript#22](https://github.com/multikernel/kernelscript/pull/22) - feat:Implement perf event groups, scaled reads, and group snapshots (Merged, updated 2026-05-23)
 - ✅ [multikernel/kernelscript#18](https://github.com/multikernel/kernelscript/pull/18) - Add `@perf_event` program type with full attach/detach/count support (Merged, updated 2026-05-13)
 - ✅ [multikernel/kernelscript#17](https://github.com/multikernel/kernelscript/pull/17) - feat: improve struct_ops codegen lifecycle and test coverage (Merged, updated 2026-04-26)
 <!-- PR-LIST:END -->

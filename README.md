@@ -52,7 +52,7 @@
 Daily-updated snapshot of my latest public PR activity.
 
 <!-- PR-LIST:START -->
-- ✅ [multikernel/kernelscript#22](https://github.com/multikernel/kernelscript/pull/22) - feat:Implement perf event groups, scaled reads, and group snapshots (Merged, updated 2026-05-23)
-- ✅ [multikernel/kernelscript#18](https://github.com/multikernel/kernelscript/pull/18) - Add `@perf_event` program type with full attach/detach/count support (Merged, updated 2026-05-13)
-- ✅ [multikernel/kernelscript#17](https://github.com/multikernel/kernelscript/pull/17) - feat: improve struct_ops codegen lifecycle and test coverage (Merged, updated 2026-04-26)
+- 🟡 [yunwei37/kernel-script-paper#3](https://github.com/yunwei37/kernel-script-paper/pull/3) - Refine Python/AI positioning in paper related work and conclusion (Open, updated 2026-06-24)
+- 🟡 [yunwei37/kernel-script-paper#2](https://github.com/yunwei37/kernel-script-paper/pull/2) - Tighten dynptr-bridging evidence in paper and ringbuf evaluation (Open, updated 2026-06-24)
+- 🟡 [yunwei37/kernel-script-paper#1](https://github.com/yunwei37/kernel-script-paper/pull/1) - Add tail-call automation and microbenchmarking support (Open, updated 2026-06-24)
 <!-- PR-LIST:END -->

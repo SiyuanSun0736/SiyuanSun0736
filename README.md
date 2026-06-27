@@ -52,7 +52,7 @@
 Daily-updated snapshot of my latest public PR activity.
 
 <!-- PR-LIST:START -->
+- ✅ [yunwei37/kernel-script-paper#4](https://github.com/yunwei37/kernel-script-paper/pull/4) - paper: migrate manuscript to ACM acmart submission format (Merged, updated 2026-06-26)
+- ⚪ [yunwei37/kernel-script-paper#1](https://github.com/yunwei37/kernel-script-paper/pull/1) - Add tail-call automation and microbenchmarking support (Closed, updated 2026-06-26)
 - ✅ [yunwei37/kernel-script-paper#3](https://github.com/yunwei37/kernel-script-paper/pull/3) - Refine Python/AI positioning in paper related work and conclusion (Merged, updated 2026-06-26)
-- ✅ [yunwei37/kernel-script-paper#2](https://github.com/yunwei37/kernel-script-paper/pull/2) - Tighten dynptr-bridging evidence in paper and ringbuf evaluation (Merged, updated 2026-06-25)
-- 🟡 [yunwei37/kernel-script-paper#1](https://github.com/yunwei37/kernel-script-paper/pull/1) - Add tail-call automation and microbenchmarking support (Open, updated 2026-06-24)
 <!-- PR-LIST:END -->
